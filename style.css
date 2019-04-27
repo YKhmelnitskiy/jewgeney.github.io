@@ -13,3 +13,12 @@ p {line-height: 2;
   color: #B31919 !important
 }
 
+.resizing {}
+
+
+@media (max-width: 767)      {
+  .resizing
+    {
+  padding-top: 50px;
+  }
+}
