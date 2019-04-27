@@ -16,7 +16,7 @@ p {line-height: 2;
 .resizing {}
 
 
-@media (max-width: 767)      {
+@media (max-width: 767px)      {
   .resizing
     {
   padding-top: 50px;
